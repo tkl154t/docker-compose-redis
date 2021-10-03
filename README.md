@@ -1,6 +1,16 @@
 02/10/2021
 # Reference
+Redis master-slave Installation
 https://laptrinh.vn/books/redis/page/huong-dan-cai-dat-redis-master-slave-tren-centos-7
+Redis attacks:
+https://book.hacktricks.xyz/pentesting/6379-pentesting-redis
+https://paper.seebug.org/977/
+https://medium.com/@knownsec404team/rce-exploits-of-redis-based-on-master-slave-replication-ef7a664ce1d0
+https://www.youtube.com/watch?v=Jmv-0PnoJ6c
+https://2018.zeronights.ru/wp-content/uploads/materials/15-redis-post-exploitation.pdf
+https://github.com/n0b0dyCN/redis-rogue-server
+
+
 
 # Build
 ```
